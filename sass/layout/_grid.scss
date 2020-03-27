@@ -11,10 +11,10 @@
 
   [class^="col-"]{
 
-    background-color: $color-primary;
+    // background-color: $color-white;
     float: left;
     padding: 2rem;
-    color: $color-white;
+    color: $color-black;
 
     &:not(:last-child){
       margin-right: $gutter-horizontal;
